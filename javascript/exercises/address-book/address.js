@@ -1,0 +1,1 @@
+let addresses = document.querySelector("#addressList")

@@ -1,0 +1,17 @@
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+#idOne {
+    border-style: solid;
+    border-width: medium;
+    border-color: blue;
+}
+
+#idTwo {
+    border-style: solid;
+    border-width: medium;
+    border-color: red;
+}
+
